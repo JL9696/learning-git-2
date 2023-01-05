@@ -3,7 +3,7 @@ body{
     background: lightskyblue;
 }
 
-h1, h4{
+h1, h4, p{
     text-align: center;
 }
 
@@ -15,6 +15,9 @@ h4{
     margin-bottom: 50px;
 }
 
-p{
-    text-align: center;
+a{
+    text-decoration: none;
+    color: rgb(169, 28, 28);
+    font-size: 20px;
+    
 }
